@@ -25,11 +25,11 @@
     "xiom",
     "shadcn"
   ],
-  "author": "Marc <your@email.com>",
+  "author": "MhMiyad (mhmiyad6565@gmail.com)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_USERNAME/xiom-ui.git"
+    "url": "https://github.com/mh-miyad/XiomUI"
   },
   "homepage": "https://xiom-ui.vercel.app",
   "engines": {

@@ -11,7 +11,7 @@ import fs from "fs-extra";
 import ora from "ora";
 import path from "path";
 import prompts from "prompts";
-var REGISTRY_URL = process.env.REGISTRY_URL || "http://localhost:3000/api/registry";
+var REGISTRY_URL = process.env.REGISTRY_URL || "https://xiom-ui.vercel.app/api/registry";
 async function add(components, options) {
   const configPath = path.resolve("xiom-ui.json");
   if (!await fs.pathExists(configPath)) {
